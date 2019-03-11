@@ -1,10 +1,3 @@
-/*
-Aleena Thomas
-CSCI-136
-Genady Maryash 
-Lab5D
-This program checks i a number is a twin prime.
-*/
 
 #include <iostream>
 using namespace std;
